@@ -6,7 +6,7 @@ This repository contains code used to create aws infrastructure following the ar
 ![AWS Architecture Diagram](./architecture_diagram.png)
 
 ## Modules To Created
-These are a list of the modules that will be created in the `./modules` directory.
+A list of all the modules that are created in the `./modules` directory.
 
 - VPC module
 - NAT Gateway module
